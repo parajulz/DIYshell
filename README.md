@@ -1,6 +1,6 @@
 # 🐚 ANUSKAsShell
 
-A fully functional **custom Unix shell** written in **C**, built from scratch. Supports basic command execution, directory navigation, input/output redirection, piping, background processes, and history navigation using arrow keys.
+Welcome to Anuska's Shell! I've built a fully functional **custom Unix shell** written in **C**, built from scratch. Supports basic command execution, directory navigation, input/output redirection, piping, background processes, and history navigation using arrow keys.
 
 ---
 
